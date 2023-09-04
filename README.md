@@ -15,7 +15,7 @@ GitHub CLI está disponible para repositorios alojados en GitHub.com y en GitHub
 
 For [installation options see below](#installation), for usage instructions [see the manual][manual].
 
-[Opciones de instalación](#installation). [Instrucciones de uso][manual].
+[Opciones de instalación](#installation). [Instrucciones de uso][#manual].
 
 ## Contributing
 
@@ -147,6 +147,9 @@ Consulte nuestra [explicación más detallada] [gh-vs-hub] para obtener más inf
 [Conda]: https://docs.conda.io/en/latest/
 [Spack]: https://spack.io
 [releases page]: https://github.com/cli/cli/releases/latest
+
+
+#manual
 [hub]: https://github.com/github/hub
 [contributing]: ./.github/CONTRIBUTING.md
 [gh-vs-hub]: ./docs/gh-vs-hub.md
