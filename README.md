@@ -20,15 +20,19 @@ For [installation options see below](#installation), for usage instructions [see
 ## Contributing
 
 If anything feels off, or if you feel that some functionality is missing, please check out the [contributing page][contributing]. There you will find instructions for sharing your feedback, building the tool locally, and submitting pull requests to the project.
+Si algo no funciona o si cree que falta alguna funcionalidad, consulte la [página de contribución][contributing]. Allí encontrará instrucciones para compartir sus comentarios, crear la herramienta localmente y enviar solicitudes de extracción al proyecto.
 
 If you are a hubber and are interested in shipping new commands for the CLI, check out our [doc on internal contributions][intake-doc].
+Si es un entusiasta y está interesado en enviar nuevos comandos para la CLI, consulte nuestro [doc sobre contribuciones internas][intake-doc].
 
 <!-- this anchor is linked to from elsewhere, so avoid renaming it -->
+<!-- este ancla está vinculada desde otro lugar, así que evite cambiarle el nombre -->
 ## Installation
 
 ### macOS
 
 `gh` is available via [Homebrew][], [MacPorts][], [Conda][], [Spack][], and as a downloadable binary from the [releases page][].
+`gh` está disponible a través de [Homebrew][], [MacPorts][], [Conda][], [Spack][] y como un binario descargable desde la [página de lanzamientos][].
 
 #### Homebrew
 
@@ -49,6 +53,7 @@ If you are a hubber and are interested in shipping new commands for the CLI, che
 | `conda install gh --channel conda-forge` | `conda update gh --channel conda-forge` |
 
 Additional Conda installation options available on the [gh-feedstock page](https://github.com/conda-forge/gh-feedstock#installing-gh).
+Opciones de instalación adicionales de Conda disponibles en la [página gh-feedstock](https://github.com/conda-forge/gh-feedstock#installing-gh).
 
 #### Spack
 
@@ -98,6 +103,7 @@ MSI installers are available for download on the [releases page][].
 ### Codespaces
 
 To add GitHub CLI to your codespace, add the following to your [devcontainer file](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-features-to-a-devcontainer-file):
+Para agregar GitHub CLI a su codespace, agregue lo siguiente a su [archivo devcontainer](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-features-to- un archivo-devcontainer):
 
 ```json
 "features": {
@@ -123,6 +129,9 @@ For many years, [hub][] was the unofficial GitHub CLI tool. `gh` is a new projec
 what an official GitHub CLI tool can look like with a fundamentally different design. While both
 tools bring GitHub to the terminal, `hub` behaves as a proxy to `git`, and `gh` is a standalone
 tool. Check out our [more detailed explanation][gh-vs-hub] to learn more.
+Durante muchos años, [hub][] fue la herramienta CLI no oficial de GitHub. `gh` es un nuevo proyecto que nos ayuda a explorar cómo puede verse una herramienta CLI oficial de GitHub con un diseño fundamentalmente diferente.
+Si bien ambas herramientas llevan GitHub a la terminal, `hub` se comporta como un proxy de `git` y `gh` es una herramienta independiente.
+Consulte nuestra [explicación más detallada] [gh-vs-hub] para obtener más información.
 
 [manual]: https://cli.github.com/manual/
 [Homebrew]: https://brew.sh
