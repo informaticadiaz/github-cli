@@ -147,11 +147,14 @@ Consulte nuestra [explicación más detallada] [gh-vs-hub] para obtener más inf
 [Conda]: https://docs.conda.io/en/latest/
 [Spack]: https://spack.io
 [releases page]: https://github.com/cli/cli/releases/latest
-
-
-#manual
 [hub]: https://github.com/github/hub
 [contributing]: ./.github/CONTRIBUTING.md
 [gh-vs-hub]: ./docs/gh-vs-hub.md
 [build from source]: ./docs/source.md
 [intake-doc]: ./docs/working-with-us.md
+
+
+## Manual
+
+
+
