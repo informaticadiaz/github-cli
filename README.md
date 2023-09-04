@@ -20,9 +20,11 @@ For [installation options see below](#installation), for usage instructions [see
 ## Contributing
 
 If anything feels off, or if you feel that some functionality is missing, please check out the [contributing page][contributing]. There you will find instructions for sharing your feedback, building the tool locally, and submitting pull requests to the project.
+
 Si algo no funciona o si cree que falta alguna funcionalidad, consulte la [página de contribución][contributing]. Allí encontrará instrucciones para compartir sus comentarios, crear la herramienta localmente y enviar solicitudes de extracción al proyecto.
 
 If you are a hubber and are interested in shipping new commands for the CLI, check out our [doc on internal contributions][intake-doc].
+
 Si es un entusiasta y está interesado en enviar nuevos comandos para la CLI, consulte nuestro [doc sobre contribuciones internas][intake-doc].
 
 <!-- this anchor is linked to from elsewhere, so avoid renaming it -->
@@ -32,6 +34,7 @@ Si es un entusiasta y está interesado en enviar nuevos comandos para la CLI, co
 ### macOS
 
 `gh` is available via [Homebrew][], [MacPorts][], [Conda][], [Spack][], and as a downloadable binary from the [releases page][].
+
 `gh` está disponible a través de [Homebrew][], [MacPorts][], [Conda][], [Spack][] y como un binario descargable desde la [página de lanzamientos][].
 
 #### Homebrew
