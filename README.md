@@ -156,5 +156,6 @@ Consulte nuestra [explicación más detallada] [gh-vs-hub] para obtener más inf
 
 ## Manual
 
-
+#### Core commands
+- gh auth
 
