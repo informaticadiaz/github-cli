@@ -158,6 +158,15 @@ Consulte nuestra [explicación más detallada] [gh-vs-hub] para obtener más inf
 
 #### Core commands
 - [gh auth](#gh-auth)
+- [gh browse](#gh-browse)
+- [gh codespace](#gh-codespace)
+- [gh gist](#gh-gist)
+- [gh issue](#gh-issue)
+- [gh org](#gh-org)
+- [gh pr](#gh-pr)
+- [gh project](#gh-project)
+- [gh release](#gh-release)
+- [gh repo](#gh-repo)
 
 
 
