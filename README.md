@@ -103,7 +103,8 @@ MSI installers are available for download on the [releases page][].
 ### Codespaces
 
 To add GitHub CLI to your codespace, add the following to your [devcontainer file](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-features-to-a-devcontainer-file):
-Para agregar GitHub CLI a su codespace, agregue lo siguiente a su [archivo devcontainer](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-features-to- un archivo-devcontainer):
+
+Para agregar GitHub CLI a su codespace, agregue lo siguiente a su [archivo devcontainer]([https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-features-to- un archivo-devcontainer](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-features-to-a-devcontainer-file)):
 
 ```json
 "features": {
