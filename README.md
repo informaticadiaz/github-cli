@@ -2,13 +2,20 @@
 
 `gh` is GitHub on the command line. It brings pull requests, issues, and other GitHub concepts to the terminal next to where you are already working with `git` and your code.
 
+`gh` es GitHub en la línea de comando. Trae solicitudes de extracción, problemas y otros conceptos de GitHub a la terminal junto a donde ya estás trabajando con `git` y tu código.
+
+
 ![screenshot of gh pr status](https://user-images.githubusercontent.com/98482/84171218-327e7a80-aa40-11ea-8cd1-5177fc2d0e72.png)
 
 GitHub CLI is available for repositories hosted on GitHub.com and GitHub Enterprise Server 2.20+, and to install on macOS, Windows, and Linux.
 
+GitHub CLI está disponible para repositorios alojados en GitHub.com y en GitHub Enterprise Server 2.20 o superior, y se puede instalar en macOS, Windows y Linux.
+
 ## Documentation
 
 For [installation options see below](#installation), for usage instructions [see the manual][manual].
+
+Para [opciones de instalación, consulta más abajo en la sección de instalación](#installation). Para obtener instrucciones de uso, consulta el manual enlaceado.
 
 ## Contributing
 
