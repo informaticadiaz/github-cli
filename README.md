@@ -163,5 +163,5 @@ Consulte nuestra [explicación más detallada] [gh-vs-hub] para obtener más inf
 
 
 
-[gh auth](## gh auth)
+[gh auth](## ghauth)
 
