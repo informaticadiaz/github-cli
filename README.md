@@ -5,6 +5,8 @@
 `gh` es GitHub en la línea de comando. Trae solicitudes de extracción, problemas y otros conceptos de GitHub a la terminal junto a donde ya estás trabajando con `git` y tu código.
 
 
+[gh auth](##ghauth)
+
 ![screenshot of gh pr status](https://user-images.githubusercontent.com/98482/84171218-327e7a80-aa40-11ea-8cd1-5177fc2d0e72.png)
 
 GitHub CLI is available for repositories hosted on GitHub.com and GitHub Enterprise Server 2.20+, and to install on macOS, Windows, and Linux.
@@ -188,5 +190,5 @@ a
 
 
 
-[gh auth](##ghauth)
+
 
