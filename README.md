@@ -15,7 +15,7 @@ GitHub CLI está disponible para repositorios alojados en GitHub.com y en GitHub
 
 For [installation options see below](#installation), for usage instructions [see the manual][manual].
 
-Para [opciones de instalación](#installation). Para obtener instrucciones de uso, consulta el manual[manual].
+Para [opciones de instalación](#installation). Para obtener instrucciones de uso, [consulta el manual].[manual].
 
 ## Contributing
 
