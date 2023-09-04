@@ -129,6 +129,7 @@ For many years, [hub][] was the unofficial GitHub CLI tool. `gh` is a new projec
 what an official GitHub CLI tool can look like with a fundamentally different design. While both
 tools bring GitHub to the terminal, `hub` behaves as a proxy to `git`, and `gh` is a standalone
 tool. Check out our [more detailed explanation][gh-vs-hub] to learn more.
+
 Durante muchos años, [hub][] fue la herramienta CLI no oficial de GitHub. `gh` es un nuevo proyecto que nos ayuda a explorar cómo puede verse una herramienta CLI oficial de GitHub con un diseño fundamentalmente diferente.
 Si bien ambas herramientas llevan GitHub a la terminal, `hub` se comporta como un proxy de `git` y `gh` es una herramienta independiente.
 Consulte nuestra [explicación más detallada] [gh-vs-hub] para obtener más información.
