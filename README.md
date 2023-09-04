@@ -156,7 +156,7 @@ Consulte nuestra [explicación más detallada] [gh-vs-hub] para obtener más inf
 
 ## Manual
 
-#### Core commands
+#### <a name="core-commands"></a>Core commands
 - [gh auth](#gh-auth)
 - [gh browse](#gh-browse)
 - [gh codespace](#gh-codespace)
@@ -277,4 +277,5 @@ a
 a
 
 
+[Enlace a Core commands](#core-commands)
 
