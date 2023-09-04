@@ -35,7 +35,7 @@ Si es un entusiasta y está interesado en enviar nuevos comandos para la CLI, co
 
 `gh` is available via [Homebrew][], [MacPorts][], [Conda][], [Spack][], and as a downloadable binary from the [releases page][].
 
-`gh` está disponible a través de [Homebrew][], [MacPorts][], [Conda][], [Spack][] y como un binario descargable desde la [página de lanzamientos][].
+`gh` está disponible a través de [Homebrew][], [MacPorts][], [Conda][], [Spack][] y como un binario descargable desde la [página de lanzamientos][releases page]].
 
 #### Homebrew
 
